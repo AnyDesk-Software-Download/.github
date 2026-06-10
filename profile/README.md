@@ -37,7 +37,7 @@ For organizations, anydesk software gmbh is the vendor behind the product and pr
 - Practical remote support software features for IT teams, consultants, educators, and home users  
 - Clear setup path for anyone searching download anydesk for mac, anydesk free, or anydesk software download  
 
-![AnyDesk remote desktop session showing device access controls and support tools](https://anydesk.com/_static/img/devices/anydesk-device-windows-dff587.jpg)
+![AnyDesk remote desktop session showing device access controls and support tools](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7D4hbcZPAVdEt1Ac6BuG32-aNK89Kpepb4gxvx-cceA&s)
 
 ## Device Compatibility and Setup Details
 
